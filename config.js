@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['255699457822', 'WHITE', true], 
-  ['255678485174', 'JAMES EDUARD', true],
+  ['255699457822', 'JAMES', true], 
+  ['255699457822', 'JAMES EDUARD', true],
   ['255699457822', 'JAMES EDUARD', true], 
   ['255699457822', 'HAMESLOTTIN', true],
   ['255699457822', 'HAMESLOTTIN2', true],
@@ -20,7 +20,7 @@ global.owner = [
 
 global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233208179431'] 
 global.prems = ['923184070915','233208179431','94789481495', '918360234087','233531910067']
-global.allowed = ['255699457822', '255699457822', '255678485174', '255775485175','255699457822']
+global.allowed = ['255699457822', '255699457822', '255699457822', '255699457822','255699457822']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
